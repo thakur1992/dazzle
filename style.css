@@ -6,6 +6,7 @@
 
 .card{
         width: 200px;
+        margin: 5px;
 }
 .carousel-inner > .carousel-item > img {
         height: 550px;
